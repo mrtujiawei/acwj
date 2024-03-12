@@ -1,5 +1,7 @@
 # A Compiler Writing Journey
 
+> 前三章已经看完，第四章的时候需要 `x64_64` cpu， 目前用的 mac ，搞起来比较费劲，等有时间了再搞;
+
 In this Github repository, I'm documenting my journey to write a
 self-compiling compiler for a subset of the C language.
 I'm also writing out the details so that,
